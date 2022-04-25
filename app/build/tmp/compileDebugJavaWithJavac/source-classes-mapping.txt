@@ -1,0 +1,16 @@
+com/example/a14_pager/BuildConfig.java
+ com.example.a14_pager.BuildConfig
+com/example/a14_pager/databinding/ActivityMainBinding.java
+ com.example.a14_pager.databinding.ActivityMainBinding
+com/example/a14_pager/MyRecyclerViewData.java
+ com.example.a14_pager.MyRecyclerViewData
+com/example/a14_pager/MyViewPager2Adapter.java
+ com.example.a14_pager.MyViewPager2Adapter
+ com.example.a14_pager.MyViewPager2Adapter$MyViewHolder
+com/example/a14_pager/MainActivity.java
+ com.example.a14_pager.MainActivity
+ com.example.a14_pager.MainActivity$1
+ com.example.a14_pager.MainActivity$2
+ com.example.a14_pager.MainActivity$2$1
+com/example/a14_pager/MyFragmentDataPassListener.java
+ com.example.a14_pager.MyFragmentDataPassListener
